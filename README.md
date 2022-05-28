@@ -1,0 +1,2 @@
+# patika-baslangic_seviye_frontend_web_development
+Başlangıç Seviye Frontend Web Development Patikası
